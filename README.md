@@ -13,7 +13,7 @@ Course: [Build Responsive Real-World Websites with HTML and CSS](https://www.ude
 7. Whitespace
 8. Visual Hierarchy
 
-# For a Live Preview, visit: https://victordevcoding.github.io/lisbon-chairs/
+For a Live Preview, visit: https://victordevcoding.github.io/lisbon-chairs/
 
 
 
